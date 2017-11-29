@@ -1,14 +1,14 @@
-Óğîâåíü Advanced:
+Ğ£Ñ€Ğ¾Ğ²ĞµĞ½ÑŒ Advanced:
 0. wget http://factorized.net/crusoe.txt
-1. find ÈÌß_ÏÀÏÊÈ -name '*.txt'
+1. find Ğ˜ĞœĞ¯_ĞŸĞĞŸĞšĞ˜ -name '*.txt'
 2. grep -io '\bfriday\w*\b' crusoe.txt
 3. echo "Hello World" >> crusoe.txt
 4. ls > files.txt
 5. find / -name '*.txt'
 
 
-Óğîâåíü Expert:
+Ğ£Ñ€Ğ¾Ğ²ĞµĞ½ÑŒ Expert:
 1. grep -c 'Friday' crusoe.txt
 2. sed -i 's/Friday/Saturday/g' crusoe.txt
-3. cat ÈÌß_ÂÕÎÄÍÎÃÎ_ÔÀÉËÀ | awk '{s+=$1} {t+=$2} END {print s" "t}'
-   awk '{if (max < NF) { max = NF; x = $0}} END {print x}' ÈÌß_ÂÕÎÄÍÎÃÎ_ÔÀÉËÀ
+3. cat Ğ˜ĞœĞ¯_Ğ’Ğ¥ĞĞ”ĞĞĞ“Ğ_Ğ¤ĞĞ™Ğ›Ğ | awk '{s+=$1} {t+=$2} END {print s" "t}'
+   awk '{if (max < NF) { max = NF; x = $0}} END {print x}' Ğ˜ĞœĞ¯_Ğ’Ğ¥ĞĞ”ĞĞĞ“Ğ_Ğ¤ĞĞ™Ğ›Ğ
