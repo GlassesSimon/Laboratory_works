@@ -1,0 +1,27 @@
+Уровень Advanced:
+1. which cat
+Ответ: /bin/cat
+   whereis cat
+Ответ: cat: /bin/cat /usr/share/man/man1/cat.1.gz
+   which less
+Ответ: usr/bin/less
+   whereis less
+Ответ: less: /bin/less usr/bin/less usr/bin/X11/less /usr/share/man/man1/less.1.gz /usr/share/man/man3/less.3per1.gz
+   which grep
+Ответ: /bin/grep
+   whereis grep
+Ответ: grep: /bin/grep /usr/share/man/man1/grep.1.gz
+   which find
+Ответ: usr/bin/find
+   whereis find
+Ответ: find: /usr/bin/less usr/bin/X11/find /usr/share/man/man1/find.1.gz
+2. echo $PATH
+Ответ: /usr/local/bin:/usr/local/games:usr/games
+3. gcc main.c -o programm
+   open programm
+   cd
+   open ~/Desktop/programm
+4. export PATH=$PATH:/Users/DNS/Desktop/
+
+Уровень Expert:
+1.
